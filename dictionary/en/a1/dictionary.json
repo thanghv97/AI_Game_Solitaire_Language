@@ -1,0 +1,2470 @@
+{
+  "level": "A1",
+  "description": "Basic English vocabulary for beginners (CEFR A1)",
+  "topics": [
+    {
+      "name": "COLORS",
+      "words": [
+        "red",
+        "blue",
+        "green",
+        "yellow",
+        "black",
+        "white",
+        "pink",
+        "orange"
+      ]
+    },
+    {
+      "name": "NUMBERS",
+      "words": [
+        "one",
+        "two",
+        "three",
+        "four",
+        "five",
+        "six",
+        "seven",
+        "eight",
+        "nine",
+        "ten"
+      ]
+    },
+    {
+      "name": "DAYS",
+      "words": [
+        "Monday",
+        "Tuesday",
+        "Wednesday",
+        "Thursday",
+        "Friday",
+        "Saturday",
+        "Sunday"
+      ]
+    },
+    {
+      "name": "MONTHS",
+      "words": [
+        "January",
+        "February",
+        "March",
+        "April",
+        "May",
+        "June",
+        "July",
+        "August"
+      ]
+    },
+    {
+      "name": "FAMILY",
+      "words": [
+        "mother",
+        "father",
+        "brother",
+        "sister",
+        "baby",
+        "child",
+        "parent"
+      ]
+    },
+    {
+      "name": "BODY",
+      "words": [
+        "head",
+        "eye",
+        "nose",
+        "mouth",
+        "hand",
+        "foot",
+        "ear",
+        "arm",
+        "leg"
+      ]
+    },
+    {
+      "name": "FOOD",
+      "words": [
+        "bread",
+        "milk",
+        "egg",
+        "rice",
+        "meat",
+        "fish",
+        "fruit",
+        "cake"
+      ]
+    },
+    {
+      "name": "DRINKS",
+      "words": [
+        "water",
+        "juice",
+        "tea",
+        "coffee",
+        "milk",
+        "soup"
+      ]
+    },
+    {
+      "name": "ANIMALS",
+      "words": [
+        "cat",
+        "dog",
+        "bird",
+        "fish",
+        "cow",
+        "horse",
+        "rabbit",
+        "pig"
+      ]
+    },
+    {
+      "name": "CLOTHES",
+      "words": [
+        "shirt",
+        "pants",
+        "dress",
+        "shoes",
+        "hat",
+        "coat",
+        "socks",
+        "jacket"
+      ]
+    },
+    {
+      "name": "HOUSE ROOMS",
+      "words": [
+        "bedroom",
+        "kitchen",
+        "bathroom",
+        "living room",
+        "garden"
+      ]
+    },
+    {
+      "name": "FURNITURE",
+      "words": [
+        "chair",
+        "table",
+        "bed",
+        "sofa",
+        "desk",
+        "lamp",
+        "shelf"
+      ]
+    },
+    {
+      "name": "SCHOOL OBJECTS",
+      "words": [
+        "pen",
+        "book",
+        "bag",
+        "ruler",
+        "pencil",
+        "eraser",
+        "paper"
+      ]
+    },
+    {
+      "name": "TRANSPORT",
+      "words": [
+        "car",
+        "bus",
+        "train",
+        "bike",
+        "plane",
+        "boat",
+        "taxi"
+      ]
+    },
+    {
+      "name": "WEATHER",
+      "words": [
+        "sun",
+        "rain",
+        "cloud",
+        "wind",
+        "snow",
+        "hot",
+        "cold",
+        "warm"
+      ]
+    },
+    {
+      "name": "SEASONS",
+      "words": [
+        "spring",
+        "summer",
+        "autumn",
+        "winter"
+      ]
+    },
+    {
+      "name": "FRUITS",
+      "words": [
+        "apple",
+        "banana",
+        "orange",
+        "grape",
+        "lemon",
+        "mango",
+        "pear",
+        "peach"
+      ]
+    },
+    {
+      "name": "VEGETABLES",
+      "words": [
+        "carrot",
+        "potato",
+        "tomato",
+        "onion",
+        "bean",
+        "pea",
+        "cabbage"
+      ]
+    },
+    {
+      "name": "SPORTS",
+      "words": [
+        "football",
+        "tennis",
+        "swimming",
+        "running",
+        "basketball",
+        "cycling"
+      ]
+    },
+    {
+      "name": "HOBBIES",
+      "words": [
+        "reading",
+        "cooking",
+        "singing",
+        "dancing",
+        "drawing",
+        "fishing"
+      ]
+    },
+    {
+      "name": "PLACES IN TOWN",
+      "words": [
+        "school",
+        "shop",
+        "park",
+        "hospital",
+        "bank",
+        "church",
+        "market"
+      ]
+    },
+    {
+      "name": "GREETINGS",
+      "words": [
+        "hello",
+        "goodbye",
+        "please",
+        "thank you",
+        "sorry",
+        "excuse me"
+      ]
+    },
+    {
+      "name": "ADJECTIVES BASIC",
+      "words": [
+        "big",
+        "small",
+        "old",
+        "new",
+        "good",
+        "bad",
+        "fast",
+        "slow"
+      ]
+    },
+    {
+      "name": "VERBS BASIC",
+      "words": [
+        "go",
+        "eat",
+        "drink",
+        "sleep",
+        "walk",
+        "run",
+        "sit",
+        "stand"
+      ]
+    },
+    {
+      "name": "PREPOSITIONS",
+      "words": [
+        "in",
+        "on",
+        "at",
+        "under",
+        "next to",
+        "between",
+        "behind"
+      ]
+    },
+    {
+      "name": "QUESTION WORDS",
+      "words": [
+        "what",
+        "where",
+        "when",
+        "who",
+        "why",
+        "how",
+        "which"
+      ]
+    },
+    {
+      "name": "TIME WORDS",
+      "words": [
+        "today",
+        "yesterday",
+        "tomorrow",
+        "now",
+        "morning",
+        "evening",
+        "night"
+      ]
+    },
+    {
+      "name": "NUMBERS ORDINAL",
+      "words": [
+        "first",
+        "second",
+        "third",
+        "fourth",
+        "fifth",
+        "last"
+      ]
+    },
+    {
+      "name": "SHAPES",
+      "words": [
+        "circle",
+        "square",
+        "triangle",
+        "rectangle",
+        "star",
+        "heart"
+      ]
+    },
+    {
+      "name": "CLASSROOM",
+      "words": [
+        "teacher",
+        "student",
+        "lesson",
+        "homework",
+        "test",
+        "class",
+        "board"
+      ]
+    },
+    {
+      "name": "KITCHEN OBJECTS",
+      "words": [
+        "cup",
+        "plate",
+        "bowl",
+        "spoon",
+        "fork",
+        "knife",
+        "glass",
+        "pot"
+      ]
+    },
+    {
+      "name": "TECHNOLOGY BASIC",
+      "words": [
+        "phone",
+        "computer",
+        "TV",
+        "camera",
+        "radio",
+        "screen"
+      ]
+    },
+    {
+      "name": "NATURE",
+      "words": [
+        "tree",
+        "flower",
+        "grass",
+        "river",
+        "mountain",
+        "sea",
+        "sky",
+        "forest"
+      ]
+    },
+    {
+      "name": "HOUSE PARTS",
+      "words": [
+        "door",
+        "window",
+        "wall",
+        "floor",
+        "roof",
+        "stairs",
+        "ceiling"
+      ]
+    },
+    {
+      "name": "FEELINGS BASIC",
+      "words": [
+        "happy",
+        "sad",
+        "angry",
+        "scared",
+        "tired",
+        "hungry",
+        "thirsty"
+      ]
+    },
+    {
+      "name": "PEOPLE",
+      "words": [
+        "man",
+        "woman",
+        "boy",
+        "girl",
+        "baby",
+        "friend",
+        "person"
+      ]
+    },
+    {
+      "name": "JOBS BASIC",
+      "words": [
+        "teacher",
+        "doctor",
+        "farmer",
+        "cook",
+        "driver",
+        "police",
+        "nurse"
+      ]
+    },
+    {
+      "name": "MONEY",
+      "words": [
+        "money",
+        "price",
+        "cheap",
+        "expensive",
+        "pay",
+        "buy",
+        "sell",
+        "coin"
+      ]
+    },
+    {
+      "name": "HYGIENE",
+      "words": [
+        "wash",
+        "clean",
+        "soap",
+        "towel",
+        "brush",
+        "shower",
+        "toilet"
+      ]
+    },
+    {
+      "name": "TOYS",
+      "words": [
+        "ball",
+        "doll",
+        "game",
+        "toy",
+        "puzzle",
+        "kite",
+        "teddy bear"
+      ]
+    },
+    {
+      "name": "GARDEN PLANTS",
+      "words": [
+        "rose",
+        "grass",
+        "leaf",
+        "seed",
+        "bush",
+        "branch",
+        "root"
+      ]
+    },
+    {
+      "name": "WILD ANIMALS",
+      "words": [
+        "lion",
+        "tiger",
+        "elephant",
+        "monkey",
+        "bear",
+        "wolf",
+        "fox"
+      ]
+    },
+    {
+      "name": "BIRDS",
+      "words": [
+        "chicken",
+        "duck",
+        "eagle",
+        "parrot",
+        "penguin",
+        "owl",
+        "swan"
+      ]
+    },
+    {
+      "name": "INSECTS",
+      "words": [
+        "bee",
+        "ant",
+        "butterfly",
+        "fly",
+        "spider",
+        "mosquito"
+      ]
+    },
+    {
+      "name": "OCEAN ANIMALS",
+      "words": [
+        "whale",
+        "shark",
+        "dolphin",
+        "crab",
+        "jellyfish",
+        "turtle"
+      ]
+    },
+    {
+      "name": "HOUSE APPLIANCES",
+      "words": [
+        "fridge",
+        "washing machine",
+        "oven",
+        "fan",
+        "heater",
+        "clock"
+      ]
+    },
+    {
+      "name": "SPORTS EQUIPMENT",
+      "words": [
+        "ball",
+        "net",
+        "bat",
+        "racket",
+        "helmet",
+        "goal",
+        "glove"
+      ]
+    },
+    {
+      "name": "MUSIC BASIC",
+      "words": [
+        "song",
+        "music",
+        "sing",
+        "dance",
+        "guitar",
+        "piano",
+        "drum"
+      ]
+    },
+    {
+      "name": "ART BASIC",
+      "words": [
+        "draw",
+        "paint",
+        "colour",
+        "paper",
+        "brush",
+        "picture",
+        "line"
+      ]
+    },
+    {
+      "name": "READING WRITING",
+      "words": [
+        "read",
+        "write",
+        "word",
+        "letter",
+        "story",
+        "page",
+        "sentence"
+      ]
+    },
+    {
+      "name": "DIRECTIONS",
+      "words": [
+        "left",
+        "right",
+        "straight",
+        "north",
+        "south",
+        "east",
+        "west",
+        "turn"
+      ]
+    },
+    {
+      "name": "SIZE WORDS",
+      "words": [
+        "big",
+        "small",
+        "tall",
+        "short",
+        "long",
+        "wide",
+        "thick",
+        "thin"
+      ]
+    },
+    {
+      "name": "TASTE SMELL",
+      "words": [
+        "sweet",
+        "sour",
+        "salty",
+        "bitter",
+        "fresh",
+        "smell",
+        "taste"
+      ]
+    },
+    {
+      "name": "MATERIALS BASIC",
+      "words": [
+        "wood",
+        "metal",
+        "plastic",
+        "glass",
+        "paper",
+        "stone",
+        "cloth"
+      ]
+    },
+    {
+      "name": "FARM ANIMALS",
+      "words": [
+        "sheep",
+        "goat",
+        "pig",
+        "chicken",
+        "cow",
+        "horse",
+        "donkey"
+      ]
+    },
+    {
+      "name": "BEACH",
+      "words": [
+        "sand",
+        "wave",
+        "shell",
+        "swimsuit",
+        "sunscreen",
+        "towel",
+        "umbrella"
+      ]
+    },
+    {
+      "name": "FOOD ACTIONS",
+      "words": [
+        "eat",
+        "drink",
+        "cook",
+        "cut",
+        "mix",
+        "boil",
+        "fry",
+        "bake"
+      ]
+    },
+    {
+      "name": "TRAVEL BASIC",
+      "words": [
+        "trip",
+        "hotel",
+        "map",
+        "passport",
+        "ticket",
+        "bag",
+        "journey"
+      ]
+    },
+    {
+      "name": "HEALTH BASIC",
+      "words": [
+        "sick",
+        "pain",
+        "medicine",
+        "doctor",
+        "rest",
+        "sleep",
+        "cold",
+        "fever"
+      ]
+    },
+    {
+      "name": "BIRTHDAY PARTY",
+      "words": [
+        "cake",
+        "candle",
+        "gift",
+        "balloon",
+        "party",
+        "invite",
+        "celebrate"
+      ]
+    },
+    {
+      "name": "SHOPPING BASIC",
+      "words": [
+        "shop",
+        "buy",
+        "price",
+        "bag",
+        "queue",
+        "receipt",
+        "change"
+      ]
+    },
+    {
+      "name": "OPPOSITE WORDS",
+      "words": [
+        "hot",
+        "cold",
+        "open",
+        "close",
+        "up",
+        "down",
+        "in",
+        "out"
+      ]
+    },
+    {
+      "name": "MONTHS SEASONS",
+      "words": [
+        "spring",
+        "summer",
+        "autumn",
+        "winter",
+        "month",
+        "season",
+        "year"
+      ]
+    },
+    {
+      "name": "SPORT ACTIONS",
+      "words": [
+        "run",
+        "jump",
+        "kick",
+        "throw",
+        "catch",
+        "swim",
+        "hit",
+        "score"
+      ]
+    },
+    {
+      "name": "COUNTRY",
+      "words": [
+        "country",
+        "city",
+        "village",
+        "capital",
+        "flag",
+        "language",
+        "border"
+      ]
+    },
+    {
+      "name": "FOOD GROUPS",
+      "words": [
+        "meat",
+        "fish",
+        "dairy",
+        "grain",
+        "vegetable",
+        "fruit",
+        "snack"
+      ]
+    },
+    {
+      "name": "COMMUNICATION",
+      "words": [
+        "talk",
+        "say",
+        "ask",
+        "answer",
+        "call",
+        "listen",
+        "tell",
+        "speak"
+      ]
+    },
+    {
+      "name": "POSITION WORDS",
+      "words": [
+        "top",
+        "bottom",
+        "middle",
+        "side",
+        "corner",
+        "edge",
+        "centre"
+      ]
+    },
+    {
+      "name": "CLASSROOM ACTIONS",
+      "words": [
+        "listen",
+        "repeat",
+        "read",
+        "write",
+        "answer",
+        "ask",
+        "open",
+        "close"
+      ]
+    },
+    {
+      "name": "EMOTIONS",
+      "words": [
+        "happy",
+        "sad",
+        "angry",
+        "excited",
+        "bored",
+        "nervous",
+        "proud"
+      ]
+    },
+    {
+      "name": "BODY ACTIONS",
+      "words": [
+        "walk",
+        "run",
+        "jump",
+        "sit",
+        "stand",
+        "sleep",
+        "smile",
+        "cry"
+      ]
+    },
+    {
+      "name": "WEATHER ACTIONS",
+      "words": [
+        "rain",
+        "snow",
+        "shine",
+        "blow",
+        "freeze",
+        "melt",
+        "storm"
+      ]
+    },
+    {
+      "name": "FOOD PLACES",
+      "words": [
+        "restaurant",
+        "café",
+        "bakery",
+        "market",
+        "supermarket",
+        "canteen"
+      ]
+    },
+    {
+      "name": "SCHOOL SUBJECTS",
+      "words": [
+        "English",
+        "maths",
+        "science",
+        "art",
+        "music",
+        "history",
+        "PE"
+      ]
+    },
+    {
+      "name": "TOYS AND GAMES",
+      "words": [
+        "chess",
+        "cards",
+        "ball",
+        "doll",
+        "robot",
+        "block",
+        "kite"
+      ]
+    },
+    {
+      "name": "COMPUTER BASIC",
+      "words": [
+        "mouse",
+        "keyboard",
+        "screen",
+        "click",
+        "type",
+        "save",
+        "print"
+      ]
+    },
+    {
+      "name": "PHONE BASIC",
+      "words": [
+        "call",
+        "text",
+        "app",
+        "camera",
+        "message",
+        "ring",
+        "charge"
+      ]
+    },
+    {
+      "name": "MONEY BASIC",
+      "words": [
+        "coin",
+        "note",
+        "wallet",
+        "pay",
+        "cost",
+        "free",
+        "cash",
+        "bank"
+      ]
+    },
+    {
+      "name": "BEDROOM",
+      "words": [
+        "bed",
+        "pillow",
+        "blanket",
+        "alarm",
+        "wardrobe",
+        "mirror",
+        "curtain"
+      ]
+    },
+    {
+      "name": "BATHROOM",
+      "words": [
+        "sink",
+        "bath",
+        "shower",
+        "towel",
+        "soap",
+        "toothbrush",
+        "shampoo"
+      ]
+    },
+    {
+      "name": "LIVING ROOM",
+      "words": [
+        "sofa",
+        "TV",
+        "remote",
+        "rug",
+        "curtain",
+        "bookcase",
+        "lamp"
+      ]
+    },
+    {
+      "name": "GARDEN ACTIONS",
+      "words": [
+        "plant",
+        "water",
+        "cut",
+        "dig",
+        "grow",
+        "pick",
+        "weed"
+      ]
+    },
+    {
+      "name": "COOKING TOOLS",
+      "words": [
+        "pan",
+        "pot",
+        "knife",
+        "spoon",
+        "bowl",
+        "oven",
+        "timer"
+      ]
+    },
+    {
+      "name": "BAKERY",
+      "words": [
+        "bread",
+        "cake",
+        "biscuit",
+        "muffin",
+        "pie",
+        "doughnut",
+        "roll"
+      ]
+    },
+    {
+      "name": "FAST FOOD",
+      "words": [
+        "burger",
+        "pizza",
+        "chips",
+        "sandwich",
+        "hot dog",
+        "noodles"
+      ]
+    },
+    {
+      "name": "DAIRY",
+      "words": [
+        "milk",
+        "cheese",
+        "butter",
+        "yoghurt",
+        "cream",
+        "ice cream",
+        "egg"
+      ]
+    },
+    {
+      "name": "BREAKFAST",
+      "words": [
+        "toast",
+        "cereal",
+        "egg",
+        "juice",
+        "coffee",
+        "milk",
+        "jam",
+        "honey"
+      ]
+    },
+    {
+      "name": "DINNER",
+      "words": [
+        "soup",
+        "salad",
+        "rice",
+        "pasta",
+        "meat",
+        "sauce",
+        "dessert"
+      ]
+    },
+    {
+      "name": "SPORT PLACES",
+      "words": [
+        "field",
+        "court",
+        "pool",
+        "gym",
+        "track",
+        "ring",
+        "stadium"
+      ]
+    },
+    {
+      "name": "NIGHT SKY",
+      "words": [
+        "star",
+        "moon",
+        "cloud",
+        "dark",
+        "night",
+        "sky",
+        "planet"
+      ]
+    },
+    {
+      "name": "LIGHT AND DARK",
+      "words": [
+        "light",
+        "dark",
+        "bright",
+        "shadow",
+        "shine",
+        "glow",
+        "candle"
+      ]
+    },
+    {
+      "name": "VERBS MOVEMENT",
+      "words": [
+        "go",
+        "come",
+        "walk",
+        "run",
+        "jump",
+        "fly",
+        "swim",
+        "drive"
+      ]
+    },
+    {
+      "name": "VERBS THINKING",
+      "words": [
+        "think",
+        "know",
+        "remember",
+        "forget",
+        "understand",
+        "learn"
+      ]
+    },
+    {
+      "name": "VERBS FEELING",
+      "words": [
+        "like",
+        "love",
+        "hate",
+        "want",
+        "need",
+        "enjoy",
+        "prefer"
+      ]
+    },
+    {
+      "name": "BASIC TOOLS",
+      "words": [
+        "hammer",
+        "nail",
+        "screw",
+        "drill",
+        "saw",
+        "tape",
+        "ruler"
+      ]
+    },
+    {
+      "name": "CAMPING",
+      "words": [
+        "tent",
+        "fire",
+        "sleeping bag",
+        "torch",
+        "map",
+        "boots",
+        "rope"
+      ]
+    },
+    {
+      "name": "PICNIC",
+      "words": [
+        "basket",
+        "blanket",
+        "sandwich",
+        "fruit",
+        "drink",
+        "napkin",
+        "ant"
+      ]
+    },
+    {
+      "name": "ZOO",
+      "words": [
+        "cage",
+        "keeper",
+        "ticket",
+        "animal",
+        "lion",
+        "giraffe",
+        "penguin"
+      ]
+    },
+    {
+      "name": "POST OFFICE",
+      "words": [
+        "letter",
+        "stamp",
+        "envelope",
+        "parcel",
+        "address",
+        "post",
+        "send"
+      ]
+    },
+    {
+      "name": "LIBRARY BASIC",
+      "words": [
+        "book",
+        "shelf",
+        "read",
+        "borrow",
+        "return",
+        "author",
+        "page"
+      ]
+    },
+    {
+      "name": "HOSPITAL BASIC",
+      "words": [
+        "doctor",
+        "nurse",
+        "bed",
+        "medicine",
+        "pain",
+        "bandage",
+        "visit"
+      ]
+    },
+    {
+      "name": "POLICE",
+      "words": [
+        "police",
+        "law",
+        "crime",
+        "safe",
+        "help",
+        "call",
+        "station"
+      ]
+    },
+    {
+      "name": "FIRE STATION",
+      "words": [
+        "fire",
+        "firefighter",
+        "hose",
+        "ladder",
+        "alarm",
+        "smoke",
+        "rescue"
+      ]
+    },
+    {
+      "name": "AIRPORT BASIC",
+      "words": [
+        "plane",
+        "flight",
+        "ticket",
+        "bag",
+        "gate",
+        "passport",
+        "land"
+      ]
+    },
+    {
+      "name": "TRAIN STATION",
+      "words": [
+        "train",
+        "platform",
+        "ticket",
+        "seat",
+        "arrive",
+        "depart",
+        "rail"
+      ]
+    },
+    {
+      "name": "BUS",
+      "words": [
+        "bus",
+        "stop",
+        "seat",
+        "driver",
+        "ticket",
+        "wait",
+        "arrive"
+      ]
+    },
+    {
+      "name": "ROAD",
+      "words": [
+        "road",
+        "street",
+        "corner",
+        "traffic",
+        "sign",
+        "light",
+        "crossing"
+      ]
+    },
+    {
+      "name": "HOUSE OUTSIDE",
+      "words": [
+        "gate",
+        "garden",
+        "fence",
+        "path",
+        "garage",
+        "porch",
+        "step"
+      ]
+    },
+    {
+      "name": "WEEKEND ACTIVITIES",
+      "words": [
+        "sleep",
+        "watch",
+        "play",
+        "shop",
+        "visit",
+        "cook",
+        "relax",
+        "go out"
+      ]
+    },
+    {
+      "name": "MORNING ROUTINE",
+      "words": [
+        "wake",
+        "wash",
+        "dress",
+        "eat",
+        "brush",
+        "pack",
+        "leave"
+      ]
+    },
+    {
+      "name": "NIGHT ROUTINE",
+      "words": [
+        "dinner",
+        "bath",
+        "read",
+        "sleep",
+        "dream",
+        "quiet",
+        "dark"
+      ]
+    },
+    {
+      "name": "SCHOOL DAY",
+      "words": [
+        "arrive",
+        "lesson",
+        "lunch",
+        "break",
+        "homework",
+        "leave",
+        "study"
+      ]
+    },
+    {
+      "name": "BIRTHDAY",
+      "words": [
+        "birthday",
+        "cake",
+        "candle",
+        "wish",
+        "present",
+        "card",
+        "party",
+        "friend"
+      ]
+    },
+    {
+      "name": "HOLIDAY",
+      "words": [
+        "holiday",
+        "travel",
+        "hotel",
+        "beach",
+        "sun",
+        "swim",
+        "relax",
+        "fun"
+      ]
+    },
+    {
+      "name": "CHRISTMAS",
+      "words": [
+        "Christmas",
+        "tree",
+        "gift",
+        "snow",
+        "family",
+        "dinner",
+        "carol"
+      ]
+    },
+    {
+      "name": "EASTER",
+      "words": [
+        "egg",
+        "chocolate",
+        "bunny",
+        "spring",
+        "hunt",
+        "basket",
+        "church"
+      ]
+    },
+    {
+      "name": "JOBS AT HOME",
+      "words": [
+        "cook",
+        "clean",
+        "wash",
+        "iron",
+        "garden",
+        "repair",
+        "paint"
+      ]
+    },
+    {
+      "name": "PETS",
+      "words": [
+        "cat",
+        "dog",
+        "fish",
+        "bird",
+        "rabbit",
+        "hamster",
+        "turtle",
+        "parrot"
+      ]
+    },
+    {
+      "name": "CARING FOR PETS",
+      "words": [
+        "feed",
+        "walk",
+        "brush",
+        "play",
+        "clean",
+        "vet",
+        "water"
+      ]
+    },
+    {
+      "name": "EARTH",
+      "words": [
+        "earth",
+        "land",
+        "water",
+        "air",
+        "rock",
+        "soil",
+        "plant",
+        "animal"
+      ]
+    },
+    {
+      "name": "SIMPLE MACHINES",
+      "words": [
+        "wheel",
+        "lever",
+        "gear",
+        "pulley",
+        "spring",
+        "pump",
+        "blade"
+      ]
+    },
+    {
+      "name": "FIRE",
+      "words": [
+        "fire",
+        "flame",
+        "heat",
+        "burn",
+        "smoke",
+        "ash",
+        "candle",
+        "match"
+      ]
+    },
+    {
+      "name": "WATER",
+      "words": [
+        "water",
+        "rain",
+        "river",
+        "lake",
+        "sea",
+        "ice",
+        "pool",
+        "wave"
+      ]
+    },
+    {
+      "name": "WEATHER CLOTHES",
+      "words": [
+        "umbrella",
+        "raincoat",
+        "boots",
+        "scarf",
+        "gloves",
+        "sunglasses",
+        "cap"
+      ]
+    },
+    {
+      "name": "SPORTS CLOTHES",
+      "words": [
+        "shorts",
+        "trainers",
+        "vest",
+        "tracksuit",
+        "cap",
+        "socks",
+        "gloves"
+      ]
+    },
+    {
+      "name": "COLOURS ADVANCED",
+      "words": [
+        "purple",
+        "brown",
+        "grey",
+        "silver",
+        "gold",
+        "dark",
+        "light"
+      ]
+    },
+    {
+      "name": "ADJECTIVES SIZE",
+      "words": [
+        "tiny",
+        "huge",
+        "tall",
+        "short",
+        "wide",
+        "narrow",
+        "deep",
+        "shallow"
+      ]
+    },
+    {
+      "name": "ADJECTIVES AGE",
+      "words": [
+        "young",
+        "old",
+        "new",
+        "ancient",
+        "modern",
+        "fresh",
+        "stale"
+      ]
+    },
+    {
+      "name": "ADJECTIVES LOOK",
+      "words": [
+        "pretty",
+        "ugly",
+        "clean",
+        "dirty",
+        "bright",
+        "dark",
+        "smooth",
+        "rough"
+      ]
+    },
+    {
+      "name": "ADJECTIVES SOUND",
+      "words": [
+        "loud",
+        "quiet",
+        "noisy",
+        "silent",
+        "soft",
+        "sharp",
+        "clear"
+      ]
+    },
+    {
+      "name": "NUMBERS LARGE",
+      "words": [
+        "hundred",
+        "thousand",
+        "million",
+        "dozen",
+        "half",
+        "quarter",
+        "double"
+      ]
+    },
+    {
+      "name": "TELLING TIME",
+      "words": [
+        "hour",
+        "minute",
+        "second",
+        "clock",
+        "half past",
+        "quarter",
+        "noon"
+      ]
+    },
+    {
+      "name": "CALENDAR",
+      "words": [
+        "day",
+        "week",
+        "month",
+        "year",
+        "date",
+        "today",
+        "weekend",
+        "holiday"
+      ]
+    },
+    {
+      "name": "SEASONS ACTIVITIES",
+      "words": [
+        "ski",
+        "swim",
+        "hike",
+        "garden",
+        "fish",
+        "camp",
+        "play",
+        "collect"
+      ]
+    },
+    {
+      "name": "GRAINS AND STAPLES",
+      "words": [
+        "rice",
+        "bread",
+        "pasta",
+        "flour",
+        "oat",
+        "corn",
+        "wheat"
+      ]
+    },
+    {
+      "name": "NUTS AND SEEDS",
+      "words": [
+        "peanut",
+        "walnut",
+        "seed",
+        "almond",
+        "cashew",
+        "sesame"
+      ]
+    },
+    {
+      "name": "SPICES BASIC",
+      "words": [
+        "salt",
+        "pepper",
+        "sugar",
+        "oil",
+        "vinegar",
+        "sauce",
+        "herbs"
+      ]
+    },
+    {
+      "name": "ICE CREAM AND SWEETS",
+      "words": [
+        "ice cream",
+        "chocolate",
+        "candy",
+        "sweet",
+        "lolly",
+        "gum",
+        "cookie"
+      ]
+    },
+    {
+      "name": "RESTAURANT BASIC",
+      "words": [
+        "menu",
+        "order",
+        "waiter",
+        "bill",
+        "seat",
+        "eat",
+        "drink"
+      ]
+    },
+    {
+      "name": "EMOTIONS ACTIONS",
+      "words": [
+        "smile",
+        "laugh",
+        "cry",
+        "shout",
+        "whisper",
+        "hug",
+        "wave"
+      ]
+    },
+    {
+      "name": "HELPING WORDS",
+      "words": [
+        "please",
+        "thank you",
+        "sorry",
+        "help",
+        "yes",
+        "no",
+        "okay",
+        "sure"
+      ]
+    },
+    {
+      "name": "CLASSROOM OBJECTS",
+      "words": [
+        "dictionary",
+        "notebook",
+        "folder",
+        "scissors",
+        "glue",
+        "stapler"
+      ]
+    },
+    {
+      "name": "SPORTS",
+      "words": [
+        "volleyball",
+        "golf",
+        "boxing",
+        "skiing",
+        "surfing",
+        "rugby",
+        "hockey"
+      ]
+    },
+    {
+      "name": "MUSIC INSTRUMENTS",
+      "words": [
+        "guitar",
+        "piano",
+        "violin",
+        "drum",
+        "flute",
+        "trumpet",
+        "harp"
+      ]
+    },
+    {
+      "name": "DANCE",
+      "words": [
+        "dance",
+        "move",
+        "step",
+        "jump",
+        "spin",
+        "clap",
+        "rhythm",
+        "music"
+      ]
+    },
+    {
+      "name": "PAINTING AND DRAWING",
+      "words": [
+        "brush",
+        "paint",
+        "colour",
+        "canvas",
+        "draw",
+        "sketch",
+        "picture"
+      ]
+    },
+    {
+      "name": "SCIENCE BASIC",
+      "words": [
+        "experiment",
+        "mix",
+        "heat",
+        "cool",
+        "measure",
+        "observe",
+        "record"
+      ]
+    },
+    {
+      "name": "PLANTS GROWTH",
+      "words": [
+        "seed",
+        "water",
+        "grow",
+        "leaf",
+        "flower",
+        "fruit",
+        "root",
+        "sun"
+      ]
+    },
+    {
+      "name": "MY TOWN",
+      "words": [
+        "street",
+        "house",
+        "shop",
+        "park",
+        "church",
+        "square",
+        "road",
+        "bridge"
+      ]
+    },
+    {
+      "name": "MY COUNTRY",
+      "words": [
+        "flag",
+        "language",
+        "food",
+        "people",
+        "capital",
+        "tradition",
+        "map"
+      ]
+    },
+    {
+      "name": "FAMOUS PLACES",
+      "words": [
+        "museum",
+        "castle",
+        "palace",
+        "tower",
+        "bridge",
+        "statue",
+        "monument"
+      ]
+    },
+    {
+      "name": "MEDIA BASIC",
+      "words": [
+        "newspaper",
+        "magazine",
+        "TV",
+        "radio",
+        "internet",
+        "book",
+        "film"
+      ]
+    },
+    {
+      "name": "INTERNET BASIC",
+      "words": [
+        "website",
+        "email",
+        "search",
+        "video",
+        "chat",
+        "download",
+        "online"
+      ]
+    },
+    {
+      "name": "SOCIAL MEDIA BASIC",
+      "words": [
+        "post",
+        "photo",
+        "like",
+        "follow",
+        "share",
+        "comment",
+        "friend"
+      ]
+    },
+    {
+      "name": "GAMES",
+      "words": [
+        "game",
+        "play",
+        "win",
+        "lose",
+        "score",
+        "team",
+        "turn",
+        "rule"
+      ]
+    },
+    {
+      "name": "BOARD GAMES",
+      "words": [
+        "chess",
+        "dice",
+        "card",
+        "board",
+        "counter",
+        "move",
+        "player",
+        "piece"
+      ]
+    },
+    {
+      "name": "COOKING VERBS",
+      "words": [
+        "boil",
+        "fry",
+        "bake",
+        "cut",
+        "mix",
+        "stir",
+        "taste",
+        "serve"
+      ]
+    },
+    {
+      "name": "SHOPPING LIST",
+      "words": [
+        "list",
+        "item",
+        "buy",
+        "need",
+        "forget",
+        "tick",
+        "price",
+        "total"
+      ]
+    },
+    {
+      "name": "CLOTHES ADJECTIVES",
+      "words": [
+        "tight",
+        "loose",
+        "warm",
+        "cool",
+        "smart",
+        "casual",
+        "old",
+        "new"
+      ]
+    },
+    {
+      "name": "HAIR",
+      "words": [
+        "hair",
+        "short",
+        "long",
+        "curl",
+        "straight",
+        "brush",
+        "wash",
+        "cut",
+        "colour"
+      ]
+    },
+    {
+      "name": "FACE",
+      "words": [
+        "eye",
+        "nose",
+        "mouth",
+        "ear",
+        "cheek",
+        "chin",
+        "forehead",
+        "lip"
+      ]
+    },
+    {
+      "name": "HANDS AND FEET",
+      "words": [
+        "finger",
+        "thumb",
+        "nail",
+        "palm",
+        "toe",
+        "heel",
+        "ankle",
+        "wrist"
+      ]
+    },
+    {
+      "name": "TELLING STORIES",
+      "words": [
+        "once",
+        "then",
+        "after",
+        "before",
+        "finally",
+        "suddenly",
+        "next",
+        "end"
+      ]
+    },
+    {
+      "name": "GIVING OPINIONS",
+      "words": [
+        "think",
+        "feel",
+        "believe",
+        "agree",
+        "disagree",
+        "like",
+        "prefer",
+        "want"
+      ]
+    },
+    {
+      "name": "DESCRIBING THINGS",
+      "words": [
+        "look",
+        "seem",
+        "appear",
+        "colour",
+        "shape",
+        "size",
+        "sound",
+        "feel"
+      ]
+    },
+    {
+      "name": "BASIC CONJUNCTIONS",
+      "words": [
+        "and",
+        "but",
+        "or",
+        "so",
+        "because",
+        "if",
+        "when",
+        "before"
+      ]
+    },
+    {
+      "name": "FREQUENCY WORDS",
+      "words": [
+        "always",
+        "often",
+        "sometimes",
+        "never",
+        "usually",
+        "rarely",
+        "every day"
+      ]
+    },
+    {
+      "name": "DEGREE WORDS",
+      "words": [
+        "very",
+        "quite",
+        "really",
+        "too",
+        "enough",
+        "so",
+        "a little",
+        "a lot"
+      ]
+    },
+    {
+      "name": "SOUND WORDS",
+      "words": [
+        "loud",
+        "quiet",
+        "ring",
+        "bang",
+        "crash",
+        "whistle",
+        "click",
+        "beep"
+      ]
+    },
+    {
+      "name": "LIGHT WORDS",
+      "words": [
+        "bright",
+        "dark",
+        "shine",
+        "glow",
+        "flash",
+        "shadow",
+        "dim",
+        "clear"
+      ]
+    },
+    {
+      "name": "TEXTURE WORDS",
+      "words": [
+        "soft",
+        "hard",
+        "rough",
+        "smooth",
+        "sticky",
+        "wet",
+        "dry",
+        "sharp"
+      ]
+    },
+    {
+      "name": "TEMPERATURE WORDS",
+      "words": [
+        "hot",
+        "warm",
+        "cool",
+        "cold",
+        "freezing",
+        "boiling",
+        "mild"
+      ]
+    },
+    {
+      "name": "SPEED WORDS",
+      "words": [
+        "fast",
+        "slow",
+        "quick",
+        "late",
+        "early",
+        "hurry",
+        "rush",
+        "wait"
+      ]
+    },
+    {
+      "name": "WEIGHT WORDS",
+      "words": [
+        "heavy",
+        "light",
+        "full",
+        "empty",
+        "carry",
+        "lift",
+        "drop",
+        "hold"
+      ]
+    },
+    {
+      "name": "FEELINGS",
+      "words": [
+        "worry",
+        "hope",
+        "wish",
+        "dream",
+        "fear",
+        "trust",
+        "care",
+        "surprise"
+      ]
+    },
+    {
+      "name": "GREETINGS",
+      "words": [
+        "morning",
+        "afternoon",
+        "evening",
+        "welcome",
+        "bye",
+        "see you",
+        "nice to meet"
+      ]
+    },
+    {
+      "name": "PHONE CALLS",
+      "words": [
+        "call",
+        "ring",
+        "answer",
+        "hang up",
+        "message",
+        "voicemail",
+        "dial"
+      ]
+    },
+    {
+      "name": "HOME REPAIRS",
+      "words": [
+        "fix",
+        "break",
+        "leak",
+        "paint",
+        "nail",
+        "screw",
+        "replace",
+        "clean"
+      ]
+    },
+    {
+      "name": "IN THE PARK",
+      "words": [
+        "bench",
+        "path",
+        "tree",
+        "pond",
+        "grass",
+        "flower",
+        "dog",
+        "picnic"
+      ]
+    },
+    {
+      "name": "MARKET",
+      "words": [
+        "stall",
+        "seller",
+        "fresh",
+        "price",
+        "bag",
+        "weigh",
+        "choose",
+        "pay"
+      ]
+    },
+    {
+      "name": "BANK BASIC",
+      "words": [
+        "money",
+        "account",
+        "save",
+        "deposit",
+        "withdraw",
+        "card",
+        "PIN",
+        "queue"
+      ]
+    },
+    {
+      "name": "OFFICE BASIC",
+      "words": [
+        "desk",
+        "chair",
+        "computer",
+        "phone",
+        "meeting",
+        "email",
+        "print",
+        "work"
+      ]
+    },
+    {
+      "name": "BUILDING PARTS",
+      "words": [
+        "door",
+        "window",
+        "wall",
+        "floor",
+        "roof",
+        "step",
+        "lift",
+        "corridor"
+      ]
+    },
+    {
+      "name": "CITY SOUNDS",
+      "words": [
+        "traffic",
+        "horn",
+        "siren",
+        "crowd",
+        "music",
+        "noise",
+        "voice",
+        "ring"
+      ]
+    },
+    {
+      "name": "COUNTRYSIDE",
+      "words": [
+        "field",
+        "farm",
+        "hill",
+        "river",
+        "road",
+        "wood",
+        "quiet",
+        "fresh air"
+      ]
+    },
+    {
+      "name": "COOKING INGREDIENTS",
+      "words": [
+        "egg",
+        "flour",
+        "sugar",
+        "butter",
+        "salt",
+        "oil",
+        "milk",
+        "yeast"
+      ]
+    },
+    {
+      "name": "EATING OUT",
+      "words": [
+        "waiter",
+        "menu",
+        "order",
+        "bill",
+        "tip",
+        "table",
+        "seat",
+        "recommend"
+      ]
+    },
+    {
+      "name": "DESCRIBING PEOPLE",
+      "words": [
+        "tall",
+        "short",
+        "young",
+        "old",
+        "kind",
+        "friendly",
+        "clever",
+        "funny"
+      ]
+    },
+    {
+      "name": "DESCRIBING PLACES",
+      "words": [
+        "big",
+        "small",
+        "busy",
+        "quiet",
+        "clean",
+        "old",
+        "beautiful",
+        "far"
+      ]
+    },
+    {
+      "name": "ASKING FOR HELP",
+      "words": [
+        "help",
+        "please",
+        "can you",
+        "where is",
+        "how do I",
+        "excuse me",
+        "sorry"
+      ]
+    },
+    {
+      "name": "EXPRESSING NEED",
+      "words": [
+        "need",
+        "want",
+        "have to",
+        "must",
+        "should",
+        "would like",
+        "may I"
+      ]
+    },
+    {
+      "name": "AGREEING DISAGREEING",
+      "words": [
+        "yes",
+        "no",
+        "right",
+        "wrong",
+        "agree",
+        "disagree",
+        "exactly",
+        "maybe"
+      ]
+    },
+    {
+      "name": "SAYING GOODBYE",
+      "words": [
+        "goodbye",
+        "bye",
+        "see you",
+        "take care",
+        "good night",
+        "farewell",
+        "later"
+      ]
+    },
+    {
+      "name": "NUMBERS",
+      "words": [
+        "twenty",
+        "thirty",
+        "forty",
+        "fifty",
+        "sixty",
+        "seventy",
+        "eighty",
+        "ninety"
+      ]
+    },
+    {
+      "name": "IN THE KITCHEN",
+      "words": [
+        "cook",
+        "boil",
+        "wash",
+        "dry",
+        "open",
+        "close",
+        "pour",
+        "fill"
+      ]
+    },
+    {
+      "name": "PLAYGROUND",
+      "words": [
+        "slide",
+        "swing",
+        "climb",
+        "run",
+        "jump",
+        "play",
+        "throw",
+        "catch"
+      ]
+    },
+    {
+      "name": "STORY WORDS",
+      "words": [
+        "begin",
+        "end",
+        "next",
+        "then",
+        "first",
+        "last",
+        "finally",
+        "suddenly"
+      ]
+    },
+    {
+      "name": "ASKING QUESTIONS",
+      "words": [
+        "what",
+        "where",
+        "when",
+        "who",
+        "why",
+        "how",
+        "how much",
+        "how many"
+      ]
+    },
+    {
+      "name": "BASIC CONNECTORS",
+      "words": [
+        "and",
+        "but",
+        "or",
+        "so",
+        "because",
+        "then",
+        "also",
+        "too"
+      ]
+    },
+    {
+      "name": "POSITION BASIC",
+      "words": [
+        "here",
+        "there",
+        "near",
+        "far",
+        "inside",
+        "outside",
+        "above",
+        "below"
+      ]
+    }
+  ]
+}

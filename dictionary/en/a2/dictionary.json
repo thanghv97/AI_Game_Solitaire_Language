@@ -1,0 +1,2588 @@
+{
+  "level": "A2",
+  "description": "Elementary English vocabulary (CEFR A2)",
+  "topics": [
+    {
+      "name": "TRAVEL",
+      "words": [
+        "destination",
+        "accommodation",
+        "departure",
+        "arrival",
+        "luggage",
+        "boarding",
+        "itinerary"
+      ]
+    },
+    {
+      "name": "HEALTH",
+      "words": [
+        "appointment",
+        "prescription",
+        "symptom",
+        "treatment",
+        "recovery",
+        "checkup",
+        "pharmacy"
+      ]
+    },
+    {
+      "name": "EDUCATION",
+      "words": [
+        "curriculum",
+        "examination",
+        "assignment",
+        "semester",
+        "graduate",
+        "enrol",
+        "tutor"
+      ]
+    },
+    {
+      "name": "ENVIRONMENT",
+      "words": [
+        "pollution",
+        "recycle",
+        "climate",
+        "wildlife",
+        "habitat",
+        "conservation",
+        "emission"
+      ]
+    },
+    {
+      "name": "TECHNOLOGY",
+      "words": [
+        "software",
+        "update",
+        "connection",
+        "device",
+        "digital",
+        "wireless",
+        "battery"
+      ]
+    },
+    {
+      "name": "COOKING",
+      "words": [
+        "ingredient",
+        "recipe",
+        "portion",
+        "flavour",
+        "texture",
+        "simmer",
+        "marinate",
+        "season"
+      ]
+    },
+    {
+      "name": "FASHION",
+      "words": [
+        "trend",
+        "wardrobe",
+        "outfit",
+        "accessory",
+        "fabric",
+        "design",
+        "style",
+        "vintage"
+      ]
+    },
+    {
+      "name": "SPORT",
+      "words": [
+        "championship",
+        "competitor",
+        "training",
+        "performance",
+        "trophy",
+        "league",
+        "referee"
+      ]
+    },
+    {
+      "name": "MUSIC",
+      "words": [
+        "concert",
+        "rehearsal",
+        "lyrics",
+        "album",
+        "instrument",
+        "composer",
+        "performance",
+        "solo"
+      ]
+    },
+    {
+      "name": "MONEY",
+      "words": [
+        "budget",
+        "expense",
+        "income",
+        "investment",
+        "salary",
+        "savings",
+        "debt",
+        "profit"
+      ]
+    },
+    {
+      "name": "JOBS",
+      "words": [
+        "employer",
+        "employee",
+        "profession",
+        "career",
+        "interview",
+        "application",
+        "promotion",
+        "resign"
+      ]
+    },
+    {
+      "name": "RELATIONSHIPS",
+      "words": [
+        "friendship",
+        "partner",
+        "colleague",
+        "neighbour",
+        "acquaintance",
+        "trust",
+        "support"
+      ]
+    },
+    {
+      "name": "MEDIA",
+      "words": [
+        "broadcast",
+        "journalist",
+        "advertisement",
+        "headline",
+        "editorial",
+        "channel",
+        "coverage"
+      ]
+    },
+    {
+      "name": "TRANSPORT",
+      "words": [
+        "departure",
+        "platform",
+        "connection",
+        "schedule",
+        "delay",
+        "route",
+        "destination"
+      ]
+    },
+    {
+      "name": "FOOD",
+      "words": [
+        "cuisine",
+        "portion",
+        "appetiser",
+        "dessert",
+        "beverage",
+        "ingredient",
+        "flavour",
+        "recipe"
+      ]
+    },
+    {
+      "name": "WEATHER",
+      "words": [
+        "forecast",
+        "temperature",
+        "humidity",
+        "pressure",
+        "season",
+        "tropical",
+        "thunder",
+        "lightning"
+      ]
+    },
+    {
+      "name": "NATURE",
+      "words": [
+        "landscape",
+        "ecosystem",
+        "species",
+        "vegetation",
+        "wildlife",
+        "geology",
+        "terrain"
+      ]
+    },
+    {
+      "name": "ARCHITECTURE",
+      "words": [
+        "structure",
+        "construction",
+        "design",
+        "material",
+        "foundation",
+        "interior",
+        "exterior"
+      ]
+    },
+    {
+      "name": "SCIENCE",
+      "words": [
+        "experiment",
+        "research",
+        "theory",
+        "laboratory",
+        "discovery",
+        "analysis",
+        "evidence"
+      ]
+    },
+    {
+      "name": "POLITICS",
+      "words": [
+        "election",
+        "government",
+        "policy",
+        "citizen",
+        "democracy",
+        "parliament",
+        "vote",
+        "candidate"
+      ]
+    },
+    {
+      "name": "CULTURE",
+      "words": [
+        "tradition",
+        "heritage",
+        "festival",
+        "custom",
+        "ceremony",
+        "ritual",
+        "belief",
+        "identity"
+      ]
+    },
+    {
+      "name": "SHOPPING",
+      "words": [
+        "discount",
+        "receipt",
+        "refund",
+        "purchase",
+        "bargain",
+        "catalogue",
+        "delivery",
+        "online"
+      ]
+    },
+    {
+      "name": "HOUSE",
+      "words": [
+        "property",
+        "mortgage",
+        "landlord",
+        "tenant",
+        "furniture",
+        "decoration",
+        "maintenance",
+        "rent"
+      ]
+    },
+    {
+      "name": "BODY AND MIND",
+      "words": [
+        "exercise",
+        "nutrition",
+        "mental",
+        "physical",
+        "wellbeing",
+        "stress",
+        "relax",
+        "energy"
+      ]
+    },
+    {
+      "name": "ANIMALS",
+      "words": [
+        "domestic",
+        "endangered",
+        "predator",
+        "prey",
+        "habitat",
+        "migration",
+        "extinction",
+        "breed"
+      ]
+    },
+    {
+      "name": "LITERATURE",
+      "words": [
+        "novel",
+        "character",
+        "plot",
+        "setting",
+        "author",
+        "chapter",
+        "theme",
+        "narrator"
+      ]
+    },
+    {
+      "name": "GEOGRAPHY",
+      "words": [
+        "continent",
+        "capital",
+        "border",
+        "population",
+        "region",
+        "coast",
+        "island",
+        "valley"
+      ]
+    },
+    {
+      "name": "HISTORY",
+      "words": [
+        "civilisation",
+        "century",
+        "dynasty",
+        "empire",
+        "revolution",
+        "independence",
+        "heritage",
+        "ancient"
+      ]
+    },
+    {
+      "name": "ARTS",
+      "words": [
+        "exhibition",
+        "gallery",
+        "sculpture",
+        "painting",
+        "performance",
+        "creative",
+        "artist",
+        "style"
+      ]
+    },
+    {
+      "name": "COMMUNICATION",
+      "words": [
+        "conversation",
+        "expression",
+        "opinion",
+        "argument",
+        "persuade",
+        "explain",
+        "discuss"
+      ]
+    },
+    {
+      "name": "EMOTIONS",
+      "words": [
+        "confident",
+        "anxious",
+        "frustrated",
+        "relieved",
+        "disappointed",
+        "motivated",
+        "grateful",
+        "overwhelmed"
+      ]
+    },
+    {
+      "name": "PERSONAL QUALITIES",
+      "words": [
+        "ambitious",
+        "reliable",
+        "patient",
+        "creative",
+        "flexible",
+        "organised",
+        "determined"
+      ]
+    },
+    {
+      "name": "SOCIAL ISSUES",
+      "words": [
+        "poverty",
+        "equality",
+        "justice",
+        "freedom",
+        "rights",
+        "discrimination",
+        "charity",
+        "volunteer"
+      ]
+    },
+    {
+      "name": "ENERGY",
+      "words": [
+        "solar",
+        "fossil fuel",
+        "renewable",
+        "electricity",
+        "consumption",
+        "efficiency",
+        "power",
+        "resource"
+      ]
+    },
+    {
+      "name": "AGRICULTURE",
+      "words": [
+        "harvest",
+        "crop",
+        "livestock",
+        "irrigation",
+        "pesticide",
+        "organic",
+        "yield",
+        "cultivation"
+      ]
+    },
+    {
+      "name": "MANUFACTURING",
+      "words": [
+        "production",
+        "factory",
+        "assembly",
+        "quality",
+        "export",
+        "import",
+        "supply",
+        "demand"
+      ]
+    },
+    {
+      "name": "HEALTHCARE",
+      "words": [
+        "diagnosis",
+        "surgery",
+        "specialist",
+        "emergency",
+        "insurance",
+        "therapy",
+        "patient",
+        "clinic"
+      ]
+    },
+    {
+      "name": "EDUCATION SYSTEM",
+      "words": [
+        "primary",
+        "secondary",
+        "university",
+        "degree",
+        "scholarship",
+        "module",
+        "lecture",
+        "research"
+      ]
+    },
+    {
+      "name": "LAW",
+      "words": [
+        "regulation",
+        "penalty",
+        "contract",
+        "rights",
+        "obligation",
+        "court",
+        "judge",
+        "legal"
+      ]
+    },
+    {
+      "name": "BUSINESS",
+      "words": [
+        "company",
+        "competition",
+        "strategy",
+        "market",
+        "product",
+        "service",
+        "customer",
+        "brand"
+      ]
+    },
+    {
+      "name": "URBAN LIFE",
+      "words": [
+        "commute",
+        "suburb",
+        "population",
+        "infrastructure",
+        "neighbourhood",
+        "transport",
+        "development"
+      ]
+    },
+    {
+      "name": "RURAL LIFE",
+      "words": [
+        "countryside",
+        "community",
+        "tradition",
+        "farming",
+        "isolation",
+        "landscape",
+        "wildlife",
+        "local"
+      ]
+    },
+    {
+      "name": "TOURISM",
+      "words": [
+        "attraction",
+        "sightseeing",
+        "accommodation",
+        "guidebook",
+        "souvenir",
+        "excursion",
+        "heritage",
+        "resort"
+      ]
+    },
+    {
+      "name": "SPACE EXPLORATION",
+      "words": [
+        "astronaut",
+        "satellite",
+        "orbit",
+        "mission",
+        "spacecraft",
+        "launch",
+        "telescope",
+        "gravity"
+      ]
+    },
+    {
+      "name": "DIGITAL WORLD",
+      "words": [
+        "platform",
+        "content",
+        "stream",
+        "upload",
+        "profile",
+        "network",
+        "algorithm",
+        "data"
+      ]
+    },
+    {
+      "name": "SECURITY",
+      "words": [
+        "password",
+        "privacy",
+        "protection",
+        "threat",
+        "backup",
+        "firewall",
+        "access",
+        "identity"
+      ]
+    },
+    {
+      "name": "ENVIRONMENT",
+      "words": [
+        "carbon",
+        "deforestation",
+        "drought",
+        "flood",
+        "temperature",
+        "greenhouse",
+        "biodiversity"
+      ]
+    },
+    {
+      "name": "DISASTER",
+      "words": [
+        "earthquake",
+        "hurricane",
+        "tsunami",
+        "volcano",
+        "flood",
+        "relief",
+        "evacuation",
+        "survivor"
+      ]
+    },
+    {
+      "name": "MEDICINE",
+      "words": [
+        "antibiotic",
+        "vaccine",
+        "immune",
+        "dosage",
+        "side effect",
+        "allergy",
+        "chronic",
+        "disorder"
+      ]
+    },
+    {
+      "name": "NUTRITION",
+      "words": [
+        "protein",
+        "carbohydrate",
+        "vitamin",
+        "mineral",
+        "calorie",
+        "fibre",
+        "fat",
+        "balanced"
+      ]
+    },
+    {
+      "name": "FITNESS",
+      "words": [
+        "cardio",
+        "strength",
+        "flexibility",
+        "workout",
+        "endurance",
+        "stretching",
+        "warm up",
+        "cool down"
+      ]
+    },
+    {
+      "name": "PSYCHOLOGY",
+      "words": [
+        "behaviour",
+        "emotion",
+        "motivation",
+        "attitude",
+        "anxiety",
+        "self-esteem",
+        "confidence",
+        "personality"
+      ]
+    },
+    {
+      "name": "ECONOMICS",
+      "words": [
+        "trade",
+        "inflation",
+        "recession",
+        "unemployment",
+        "growth",
+        "consumer",
+        "production",
+        "export"
+      ]
+    },
+    {
+      "name": "JOURNALISM",
+      "words": [
+        "report",
+        "source",
+        "interview",
+        "article",
+        "publish",
+        "editor",
+        "opinion",
+        "media"
+      ]
+    },
+    {
+      "name": "ARCHITECTURE",
+      "words": [
+        "landmark",
+        "heritage",
+        "urban",
+        "renovation",
+        "facade",
+        "blueprint",
+        "structure",
+        "restore"
+      ]
+    },
+    {
+      "name": "PHOTOGRAPHY",
+      "words": [
+        "lens",
+        "exposure",
+        "focus",
+        "portrait",
+        "landscape",
+        "capture",
+        "edit",
+        "filter"
+      ]
+    },
+    {
+      "name": "CINEMA",
+      "words": [
+        "director",
+        "producer",
+        "script",
+        "cast",
+        "release",
+        "review",
+        "genre",
+        "animation"
+      ]
+    },
+    {
+      "name": "THEATRE",
+      "words": [
+        "performance",
+        "audience",
+        "director",
+        "script",
+        "costume",
+        "rehearsal",
+        "stage",
+        "role"
+      ]
+    },
+    {
+      "name": "DANCE",
+      "words": [
+        "choreography",
+        "routine",
+        "rehearsal",
+        "performance",
+        "rhythm",
+        "movement",
+        "style",
+        "technique"
+      ]
+    },
+    {
+      "name": "GAMES AND STRATEGY",
+      "words": [
+        "strategy",
+        "opponent",
+        "tournament",
+        "achieve",
+        "challenge",
+        "compete",
+        "score",
+        "victory"
+      ]
+    },
+    {
+      "name": "VOLUNTEERING",
+      "words": [
+        "community",
+        "charity",
+        "fundraise",
+        "donation",
+        "support",
+        "campaign",
+        "awareness",
+        "impact"
+      ]
+    },
+    {
+      "name": "FRIENDSHIP",
+      "words": [
+        "loyalty",
+        "trust",
+        "support",
+        "bond",
+        "common interest",
+        "disagreement",
+        "forgive",
+        "closeness"
+      ]
+    },
+    {
+      "name": "FAMILY LIFE",
+      "words": [
+        "responsibility",
+        "generation",
+        "relative",
+        "household",
+        "upbringing",
+        "sibling",
+        "reunion",
+        "tradition"
+      ]
+    },
+    {
+      "name": "COMMUNICATION SKILLS",
+      "words": [
+        "listening",
+        "negotiation",
+        "presentation",
+        "assertion",
+        "empathy",
+        "clarity",
+        "feedback"
+      ]
+    },
+    {
+      "name": "ACADEMIC SKILLS",
+      "words": [
+        "research",
+        "analyse",
+        "summarise",
+        "evaluate",
+        "reference",
+        "argue",
+        "conclude",
+        "evidence"
+      ]
+    },
+    {
+      "name": "WORK SKILLS",
+      "words": [
+        "teamwork",
+        "leadership",
+        "initiative",
+        "punctual",
+        "deadline",
+        "efficiency",
+        "communication"
+      ]
+    },
+    {
+      "name": "PROBLEM SOLVING",
+      "words": [
+        "identify",
+        "evaluate",
+        "solution",
+        "implement",
+        "outcome",
+        "consider",
+        "alternative",
+        "approach"
+      ]
+    },
+    {
+      "name": "CREATIVE WRITING",
+      "words": [
+        "plot",
+        "character",
+        "setting",
+        "tension",
+        "description",
+        "dialogue",
+        "atmosphere",
+        "perspective"
+      ]
+    },
+    {
+      "name": "READING STRATEGIES",
+      "words": [
+        "skim",
+        "scan",
+        "predict",
+        "infer",
+        "summarise",
+        "question",
+        "connect",
+        "evaluate"
+      ]
+    },
+    {
+      "name": "PUBLIC SPEAKING",
+      "words": [
+        "audience",
+        "confident",
+        "prepare",
+        "practise",
+        "pause",
+        "eye contact",
+        "structure",
+        "deliver"
+      ]
+    },
+    {
+      "name": "DEBATE",
+      "words": [
+        "argument",
+        "evidence",
+        "opinion",
+        "counter",
+        "support",
+        "disagree",
+        "conclude",
+        "persuade"
+      ]
+    },
+    {
+      "name": "ETHICS",
+      "words": [
+        "honest",
+        "responsible",
+        "fair",
+        "respect",
+        "right",
+        "wrong",
+        "moral",
+        "duty"
+      ]
+    },
+    {
+      "name": "LEADERSHIP",
+      "words": [
+        "motivate",
+        "inspire",
+        "delegate",
+        "vision",
+        "guide",
+        "decision",
+        "influence",
+        "support"
+      ]
+    },
+    {
+      "name": "TEAMWORK",
+      "words": [
+        "collaborate",
+        "contribute",
+        "role",
+        "share",
+        "responsibility",
+        "cooperate",
+        "support",
+        "goal"
+      ]
+    },
+    {
+      "name": "CONFLICT RESOLUTION",
+      "words": [
+        "compromise",
+        "negotiate",
+        "listen",
+        "understand",
+        "resolve",
+        "calm",
+        "respect",
+        "agree"
+      ]
+    },
+    {
+      "name": "TIME MANAGEMENT",
+      "words": [
+        "prioritise",
+        "schedule",
+        "deadline",
+        "plan",
+        "organise",
+        "productive",
+        "efficient",
+        "focus"
+      ]
+    },
+    {
+      "name": "GOAL SETTING",
+      "words": [
+        "target",
+        "achieve",
+        "milestone",
+        "progress",
+        "motivate",
+        "commit",
+        "review",
+        "adjust"
+      ]
+    },
+    {
+      "name": "SELF DEVELOPMENT",
+      "words": [
+        "improve",
+        "reflect",
+        "learn",
+        "challenge",
+        "grow",
+        "awareness",
+        "strength",
+        "skill"
+      ]
+    },
+    {
+      "name": "CRITICAL THINKING",
+      "words": [
+        "analyse",
+        "question",
+        "evidence",
+        "logic",
+        "bias",
+        "conclude",
+        "evaluate",
+        "reason"
+      ]
+    },
+    {
+      "name": "SOCIAL SKILLS",
+      "words": [
+        "polite",
+        "considerate",
+        "empathy",
+        "listen",
+        "cooperate",
+        "respect",
+        "communicate",
+        "relate"
+      ]
+    },
+    {
+      "name": "DIGITAL LITERACY",
+      "words": [
+        "evaluate",
+        "source",
+        "reliable",
+        "bias",
+        "copyright",
+        "privacy",
+        "search",
+        "verify"
+      ]
+    },
+    {
+      "name": "FINANCIAL LITERACY",
+      "words": [
+        "budget",
+        "save",
+        "spend",
+        "borrow",
+        "invest",
+        "income",
+        "expense",
+        "account"
+      ]
+    },
+    {
+      "name": "HEALTH LIFESTYLE",
+      "words": [
+        "balanced",
+        "active",
+        "nutrition",
+        "sleep",
+        "stress",
+        "hydrate",
+        "routine",
+        "wellbeing"
+      ]
+    },
+    {
+      "name": "ENVIRONMENT ACTIONS",
+      "words": [
+        "reduce",
+        "reuse",
+        "recycle",
+        "save",
+        "conserve",
+        "protect",
+        "avoid",
+        "sustainable"
+      ]
+    },
+    {
+      "name": "GLOBAL ISSUES",
+      "words": [
+        "poverty",
+        "hunger",
+        "inequality",
+        "climate",
+        "conflict",
+        "migration",
+        "human rights",
+        "education"
+      ]
+    },
+    {
+      "name": "COMMUNITY",
+      "words": [
+        "belong",
+        "contribute",
+        "local",
+        "event",
+        "organisation",
+        "neighbour",
+        "support",
+        "involve"
+      ]
+    },
+    {
+      "name": "IDENTITY",
+      "words": [
+        "culture",
+        "language",
+        "background",
+        "value",
+        "belief",
+        "individual",
+        "heritage",
+        "diverse"
+      ]
+    },
+    {
+      "name": "MEDIA LITERACY",
+      "words": [
+        "source",
+        "fact",
+        "opinion",
+        "bias",
+        "propaganda",
+        "reliable",
+        "verify",
+        "critical"
+      ]
+    },
+    {
+      "name": "SAFETY",
+      "words": [
+        "risk",
+        "precaution",
+        "emergency",
+        "protect",
+        "aware",
+        "avoid",
+        "report",
+        "respond"
+      ]
+    },
+    {
+      "name": "TRANSPORT",
+      "words": [
+        "congestion",
+        "infrastructure",
+        "sustainable",
+        "emission",
+        "commute",
+        "alternative",
+        "public",
+        "cycle"
+      ]
+    },
+    {
+      "name": "HOUSING",
+      "words": [
+        "affordable",
+        "location",
+        "facilities",
+        "renovation",
+        "ownership",
+        "lease",
+        "deposit",
+        "utility"
+      ]
+    },
+    {
+      "name": "CAREER PLANNING",
+      "words": [
+        "qualification",
+        "experience",
+        "opportunity",
+        "network",
+        "goal",
+        "skill",
+        "interview",
+        "prospect"
+      ]
+    },
+    {
+      "name": "WORKPLACE",
+      "words": [
+        "colleague",
+        "manager",
+        "contract",
+        "benefit",
+        "task",
+        "performance",
+        "review",
+        "promotion"
+      ]
+    },
+    {
+      "name": "CUSTOMER SERVICE",
+      "words": [
+        "complaint",
+        "assist",
+        "solution",
+        "satisfaction",
+        "respond",
+        "polite",
+        "efficient",
+        "feedback"
+      ]
+    },
+    {
+      "name": "ENTREPRENEURSHIP",
+      "words": [
+        "startup",
+        "idea",
+        "risk",
+        "profit",
+        "invest",
+        "market",
+        "brand",
+        "growth"
+      ]
+    },
+    {
+      "name": "INNOVATION",
+      "words": [
+        "create",
+        "develop",
+        "design",
+        "improve",
+        "technology",
+        "solution",
+        "original",
+        "impact"
+      ]
+    },
+    {
+      "name": "RESEARCH",
+      "words": [
+        "investigate",
+        "collect",
+        "analyse",
+        "compare",
+        "conclude",
+        "publish",
+        "source",
+        "method"
+      ]
+    },
+    {
+      "name": "DATA",
+      "words": [
+        "collect",
+        "analyse",
+        "interpret",
+        "chart",
+        "survey",
+        "statistics",
+        "result",
+        "trend"
+      ]
+    },
+    {
+      "name": "PRESENTATION SKILLS",
+      "words": [
+        "prepare",
+        "structure",
+        "visual",
+        "speak",
+        "engage",
+        "summarise",
+        "conclude",
+        "practise"
+      ]
+    },
+    {
+      "name": "LISTENING SKILLS",
+      "words": [
+        "focus",
+        "note",
+        "understand",
+        "respond",
+        "clarify",
+        "summarise",
+        "active",
+        "engage"
+      ]
+    },
+    {
+      "name": "WRITING SKILLS",
+      "words": [
+        "draft",
+        "revise",
+        "structure",
+        "paragraph",
+        "argument",
+        "evidence",
+        "conclusion",
+        "edit"
+      ]
+    },
+    {
+      "name": "STUDY SKILLS",
+      "words": [
+        "notes",
+        "review",
+        "practise",
+        "schedule",
+        "test",
+        "focus",
+        "memory",
+        "understand"
+      ]
+    },
+    {
+      "name": "EXAM SKILLS",
+      "words": [
+        "read",
+        "plan",
+        "answer",
+        "check",
+        "time",
+        "marks",
+        "question",
+        "revise"
+      ]
+    },
+    {
+      "name": "LANGUAGE LEARNING",
+      "words": [
+        "vocabulary",
+        "grammar",
+        "pronunciation",
+        "fluency",
+        "practise",
+        "listen",
+        "speak",
+        "write"
+      ]
+    },
+    {
+      "name": "CULTURE SHOCK",
+      "words": [
+        "adapt",
+        "difference",
+        "unfamiliar",
+        "adjust",
+        "overcome",
+        "explore",
+        "open-minded",
+        "patience"
+      ]
+    },
+    {
+      "name": "TRAVEL PLANNING",
+      "words": [
+        "book",
+        "research",
+        "budget",
+        "accommodation",
+        "visa",
+        "insurance",
+        "pack",
+        "itinerary"
+      ]
+    },
+    {
+      "name": "ACCOMMODATION",
+      "words": [
+        "hotel",
+        "hostel",
+        "apartment",
+        "homestay",
+        "amenities",
+        "check-in",
+        "book",
+        "location"
+      ]
+    },
+    {
+      "name": "SIGHTSEEING",
+      "words": [
+        "attraction",
+        "tour",
+        "guide",
+        "ticket",
+        "landmark",
+        "local",
+        "explore",
+        "photograph"
+      ]
+    },
+    {
+      "name": "FOOD CULTURE",
+      "words": [
+        "local",
+        "traditional",
+        "specialty",
+        "ingredient",
+        "preparation",
+        "taste",
+        "influence",
+        "festival"
+      ]
+    },
+    {
+      "name": "SPORT AND HEALTH",
+      "words": [
+        "aerobic",
+        "benefit",
+        "injury",
+        "recover",
+        "discipline",
+        "consistent",
+        "goal",
+        "improve"
+      ]
+    },
+    {
+      "name": "STRESS MANAGEMENT",
+      "words": [
+        "relax",
+        "breathe",
+        "exercise",
+        "talk",
+        "rest",
+        "balance",
+        "manage",
+        "cope"
+      ]
+    },
+    {
+      "name": "SLEEP",
+      "words": [
+        "routine",
+        "quality",
+        "insomnia",
+        "rest",
+        "cycle",
+        "dream",
+        "refresh",
+        "benefit"
+      ]
+    },
+    {
+      "name": "DIET",
+      "words": [
+        "balanced",
+        "portion",
+        "avoid",
+        "include",
+        "healthy",
+        "nutrient",
+        "reduce",
+        "increase"
+      ]
+    },
+    {
+      "name": "ADDICTION",
+      "words": [
+        "habit",
+        "control",
+        "depend",
+        "quit",
+        "support",
+        "recovery",
+        "behaviour",
+        "craving"
+      ]
+    },
+    {
+      "name": "RELATIONSHIPS",
+      "words": [
+        "communicate",
+        "trust",
+        "respect",
+        "conflict",
+        "boundary",
+        "support",
+        "appreciate",
+        "compromise"
+      ]
+    },
+    {
+      "name": "PARENTING",
+      "words": [
+        "raise",
+        "discipline",
+        "encourage",
+        "support",
+        "teach",
+        "protect",
+        "guide",
+        "responsibility"
+      ]
+    },
+    {
+      "name": "AGEING",
+      "words": [
+        "retire",
+        "pension",
+        "experience",
+        "health",
+        "wisdom",
+        "care",
+        "adapt",
+        "generation"
+      ]
+    },
+    {
+      "name": "DISABILITY",
+      "words": [
+        "access",
+        "support",
+        "independence",
+        "adapt",
+        "barrier",
+        "inclusion",
+        "assist",
+        "rights"
+      ]
+    },
+    {
+      "name": "MENTAL HEALTH",
+      "words": [
+        "wellbeing",
+        "anxiety",
+        "depression",
+        "therapy",
+        "support",
+        "stigma",
+        "awareness",
+        "cope"
+      ]
+    },
+    {
+      "name": "MEMORY",
+      "words": [
+        "recall",
+        "forget",
+        "remember",
+        "store",
+        "associate",
+        "practise",
+        "review",
+        "technique"
+      ]
+    },
+    {
+      "name": "CREATIVITY",
+      "words": [
+        "imagine",
+        "design",
+        "express",
+        "original",
+        "inspire",
+        "explore",
+        "create",
+        "produce"
+      ]
+    },
+    {
+      "name": "TECHNOLOGY IMPACT",
+      "words": [
+        "transform",
+        "connect",
+        "automate",
+        "access",
+        "communicate",
+        "challenge",
+        "depend",
+        "influence"
+      ]
+    },
+    {
+      "name": "SOCIAL CHANGE",
+      "words": [
+        "movement",
+        "campaign",
+        "protest",
+        "reform",
+        "awareness",
+        "influence",
+        "generation",
+        "shift"
+      ]
+    },
+    {
+      "name": "GLOBALISATION",
+      "words": [
+        "trade",
+        "culture",
+        "migration",
+        "connection",
+        "influence",
+        "standard",
+        "diversity",
+        "spread"
+      ]
+    },
+    {
+      "name": "ECONOMICS",
+      "words": [
+        "supply",
+        "demand",
+        "market",
+        "competition",
+        "price",
+        "consumer",
+        "production",
+        "trade"
+      ]
+    },
+    {
+      "name": "GOVERNMENT",
+      "words": [
+        "policy",
+        "tax",
+        "public service",
+        "regulation",
+        "funding",
+        "minister",
+        "authority",
+        "decision"
+      ]
+    },
+    {
+      "name": "INTERNATIONAL RELATIONS",
+      "words": [
+        "agreement",
+        "conflict",
+        "alliance",
+        "negotiation",
+        "sanction",
+        "aid",
+        "trade",
+        "diplomacy"
+      ]
+    },
+    {
+      "name": "HUMAN RIGHTS",
+      "words": [
+        "freedom",
+        "equality",
+        "justice",
+        "protection",
+        "dignity",
+        "access",
+        "responsibility",
+        "advocacy"
+      ]
+    },
+    {
+      "name": "LANGUAGE AND POWER",
+      "words": [
+        "influence",
+        "persuade",
+        "bias",
+        "propaganda",
+        "authority",
+        "symbol",
+        "frame",
+        "impact"
+      ]
+    },
+    {
+      "name": "SCIENCE AND SOCIETY",
+      "words": [
+        "discovery",
+        "ethics",
+        "application",
+        "benefit",
+        "risk",
+        "debate",
+        "progress",
+        "responsibility"
+      ]
+    },
+    {
+      "name": "FUTURE SKILLS",
+      "words": [
+        "adapt",
+        "creative",
+        "collaborate",
+        "communicate",
+        "digital",
+        "critical",
+        "resilient",
+        "learn"
+      ]
+    },
+    {
+      "name": "SUSTAINABLE LIVING",
+      "words": [
+        "reduce",
+        "consume",
+        "local",
+        "energy",
+        "waste",
+        "reuse",
+        "footprint",
+        "conscious"
+      ]
+    },
+    {
+      "name": "FOOD SECURITY",
+      "words": [
+        "supply",
+        "hunger",
+        "production",
+        "access",
+        "waste",
+        "distribution",
+        "nutrition",
+        "crisis"
+      ]
+    },
+    {
+      "name": "WATER",
+      "words": [
+        "supply",
+        "clean",
+        "shortage",
+        "management",
+        "access",
+        "conservation",
+        "pollution",
+        "sanitation"
+      ]
+    },
+    {
+      "name": "MIGRATION",
+      "words": [
+        "refugee",
+        "asylum",
+        "settlement",
+        "integration",
+        "culture",
+        "language",
+        "opportunity",
+        "challenge"
+      ]
+    },
+    {
+      "name": "GENDER",
+      "words": [
+        "equality",
+        "role",
+        "stereotype",
+        "opportunity",
+        "bias",
+        "progress",
+        "representation",
+        "fair"
+      ]
+    },
+    {
+      "name": "YOUTH",
+      "words": [
+        "opportunity",
+        "challenge",
+        "future",
+        "aspiration",
+        "influence",
+        "education",
+        "participation",
+        "rights"
+      ]
+    },
+    {
+      "name": "ELDERLY",
+      "words": [
+        "retirement",
+        "pension",
+        "care",
+        "generation",
+        "experience",
+        "isolation",
+        "support",
+        "contribution"
+      ]
+    },
+    {
+      "name": "COMMUNITY SERVICES",
+      "words": [
+        "library",
+        "health centre",
+        "transport",
+        "recreation",
+        "support",
+        "local",
+        "access",
+        "resource"
+      ]
+    },
+    {
+      "name": "EMERGENCY SERVICES",
+      "words": [
+        "ambulance",
+        "firefighter",
+        "police",
+        "rescue",
+        "respond",
+        "evacuate",
+        "alert",
+        "first aid"
+      ]
+    },
+    {
+      "name": "PUBLIC HEALTH",
+      "words": [
+        "prevention",
+        "campaign",
+        "vaccination",
+        "hygiene",
+        "disease",
+        "awareness",
+        "access",
+        "screening"
+      ]
+    },
+    {
+      "name": "SPORT EVENTS",
+      "words": [
+        "Olympics",
+        "World Cup",
+        "championship",
+        "ceremony",
+        "host",
+        "compete",
+        "medal",
+        "qualify"
+      ]
+    },
+    {
+      "name": "EXTREME SPORTS",
+      "words": [
+        "skydiving",
+        "bungee",
+        "climbing",
+        "paragliding",
+        "surfing",
+        "motocross",
+        "risk",
+        "adventure"
+      ]
+    },
+    {
+      "name": "TEAM SPORTS",
+      "words": [
+        "captain",
+        "strategy",
+        "position",
+        "tactics",
+        "squad",
+        "training",
+        "compete",
+        "result"
+      ]
+    },
+    {
+      "name": "INDIVIDUAL SPORTS",
+      "words": [
+        "personal best",
+        "focus",
+        "discipline",
+        "technique",
+        "coach",
+        "progress",
+        "compete",
+        "record"
+      ]
+    },
+    {
+      "name": "ARTS AND CULTURE",
+      "words": [
+        "gallery",
+        "museum",
+        "festival",
+        "heritage",
+        "tradition",
+        "contemporary",
+        "perform",
+        "exhibit"
+      ]
+    },
+    {
+      "name": "MUSIC CULTURE",
+      "words": [
+        "genre",
+        "influence",
+        "lyrics",
+        "culture",
+        "movement",
+        "artist",
+        "audience",
+        "industry"
+      ]
+    },
+    {
+      "name": "FILM AND TV",
+      "words": [
+        "genre",
+        "audience",
+        "rating",
+        "influence",
+        "production",
+        "streaming",
+        "series",
+        "review"
+      ]
+    },
+    {
+      "name": "SOCIAL MEDIA",
+      "words": [
+        "platform",
+        "follower",
+        "content",
+        "influence",
+        "engage",
+        "trend",
+        "privacy",
+        "algorithm"
+      ]
+    },
+    {
+      "name": "ONLINE COMMUNICATION",
+      "words": [
+        "email",
+        "chat",
+        "video call",
+        "forum",
+        "comment",
+        "profile",
+        "share",
+        "post"
+      ]
+    },
+    {
+      "name": "E-COMMERCE",
+      "words": [
+        "order",
+        "delivery",
+        "payment",
+        "review",
+        "return",
+        "discount",
+        "platform",
+        "transaction"
+      ]
+    },
+    {
+      "name": "ARTIFICIAL INTELLIGENCE",
+      "words": [
+        "machine learning",
+        "data",
+        "automate",
+        "predict",
+        "model",
+        "algorithm",
+        "train",
+        "output"
+      ]
+    },
+    {
+      "name": "RENEWABLE ENERGY",
+      "words": [
+        "solar",
+        "wind",
+        "hydro",
+        "invest",
+        "efficiency",
+        "carbon",
+        "generate",
+        "sustainable"
+      ]
+    },
+    {
+      "name": "WASTE MANAGEMENT",
+      "words": [
+        "recycle",
+        "landfill",
+        "compost",
+        "reduce",
+        "collection",
+        "sort",
+        "reuse",
+        "disposal"
+      ]
+    },
+    {
+      "name": "BIODIVERSITY",
+      "words": [
+        "species",
+        "ecosystem",
+        "protect",
+        "endangered",
+        "extinct",
+        "habitat",
+        "diversity",
+        "conservation"
+      ]
+    },
+    {
+      "name": "CLIMATE ACTION",
+      "words": [
+        "reduce",
+        "target",
+        "emission",
+        "agreement",
+        "policy",
+        "awareness",
+        "campaign",
+        "impact"
+      ]
+    },
+    {
+      "name": "OCEAN HEALTH",
+      "words": [
+        "pollution",
+        "plastic",
+        "coral reef",
+        "overfishing",
+        "temperature",
+        "acid",
+        "protect",
+        "diversity"
+      ]
+    },
+    {
+      "name": "SOIL AND LAND",
+      "words": [
+        "erosion",
+        "fertility",
+        "deforestation",
+        "farming",
+        "urban",
+        "contamination",
+        "conservation",
+        "land use"
+      ]
+    },
+    {
+      "name": "AIR QUALITY",
+      "words": [
+        "pollution",
+        "emission",
+        "particle",
+        "monitor",
+        "standard",
+        "health",
+        "vehicle",
+        "industry"
+      ]
+    },
+    {
+      "name": "URBAN DEVELOPMENT",
+      "words": [
+        "planning",
+        "zoning",
+        "housing",
+        "transport",
+        "green space",
+        "density",
+        "infrastructure",
+        "community"
+      ]
+    },
+    {
+      "name": "SMART CITIES",
+      "words": [
+        "sensor",
+        "data",
+        "efficiency",
+        "transport",
+        "energy",
+        "connect",
+        "monitor",
+        "innovation"
+      ]
+    },
+    {
+      "name": "INDUSTRY",
+      "words": [
+        "manufacture",
+        "production",
+        "supply chain",
+        "export",
+        "automation",
+        "labour",
+        "resource",
+        "waste"
+      ]
+    },
+    {
+      "name": "TRADE",
+      "words": [
+        "import",
+        "export",
+        "tariff",
+        "agreement",
+        "partner",
+        "balance",
+        "goods",
+        "service"
+      ]
+    },
+    {
+      "name": "EMPLOYMENT",
+      "words": [
+        "hire",
+        "fire",
+        "salary",
+        "contract",
+        "benefit",
+        "condition",
+        "union",
+        "right"
+      ]
+    },
+    {
+      "name": "REMOTE WORK",
+      "words": [
+        "flexible",
+        "home office",
+        "video call",
+        "collaboration",
+        "balance",
+        "productivity",
+        "connection",
+        "schedule"
+      ]
+    },
+    {
+      "name": "INNOVATION CULTURE",
+      "words": [
+        "experiment",
+        "fail",
+        "learn",
+        "iterate",
+        "idea",
+        "feedback",
+        "test",
+        "scale"
+      ]
+    },
+    {
+      "name": "CONSUMER BEHAVIOUR",
+      "words": [
+        "choice",
+        "brand",
+        "loyalty",
+        "influence",
+        "advertise",
+        "trend",
+        "need",
+        "value"
+      ]
+    },
+    {
+      "name": "ADVERTISING",
+      "words": [
+        "target",
+        "message",
+        "campaign",
+        "brand",
+        "audience",
+        "influence",
+        "media",
+        "promote"
+      ]
+    },
+    {
+      "name": "INVESTMENT",
+      "words": [
+        "return",
+        "risk",
+        "portfolio",
+        "share",
+        "bond",
+        "property",
+        "diversify",
+        "grow"
+      ]
+    },
+    {
+      "name": "INSURANCE",
+      "words": [
+        "premium",
+        "cover",
+        "claim",
+        "risk",
+        "policy",
+        "benefit",
+        "protect",
+        "excess"
+      ]
+    },
+    {
+      "name": "TAXATION",
+      "words": [
+        "income",
+        "rate",
+        "deduction",
+        "government",
+        "revenue",
+        "service",
+        "pay",
+        "system"
+      ]
+    },
+    {
+      "name": "PROPERTY",
+      "words": [
+        "buy",
+        "sell",
+        "rent",
+        "value",
+        "location",
+        "condition",
+        "mortgage",
+        "investment"
+      ]
+    },
+    {
+      "name": "LEGAL RIGHTS",
+      "words": [
+        "protect",
+        "enforce",
+        "contract",
+        "law",
+        "court",
+        "justice",
+        "access",
+        "fair"
+      ]
+    },
+    {
+      "name": "HEALTHCARE SYSTEM",
+      "words": [
+        "access",
+        "funding",
+        "public",
+        "private",
+        "service",
+        "quality",
+        "staff",
+        "patient"
+      ]
+    },
+    {
+      "name": "EDUCATION REFORM",
+      "words": [
+        "curriculum",
+        "method",
+        "outcome",
+        "assessment",
+        "teacher",
+        "technology",
+        "access",
+        "quality"
+      ]
+    },
+    {
+      "name": "CRITICAL MEDIA",
+      "words": [
+        "analyse",
+        "source",
+        "fact",
+        "opinion",
+        "bias",
+        "reliable",
+        "verify",
+        "influence"
+      ]
+    },
+    {
+      "name": "PROBLEM IDENTIFICATION",
+      "words": [
+        "issue",
+        "challenge",
+        "cause",
+        "effect",
+        "identify",
+        "recognise",
+        "describe",
+        "define"
+      ]
+    },
+    {
+      "name": "SOLUTION FINDING",
+      "words": [
+        "brainstorm",
+        "consider",
+        "propose",
+        "implement",
+        "test",
+        "review",
+        "adjust",
+        "evaluate"
+      ]
+    },
+    {
+      "name": "NEGOTIATION",
+      "words": [
+        "offer",
+        "accept",
+        "reject",
+        "compromise",
+        "agree",
+        "terms",
+        "position",
+        "outcome"
+      ]
+    },
+    {
+      "name": "PRESENTATION",
+      "words": [
+        "introduce",
+        "outline",
+        "explain",
+        "demonstrate",
+        "conclude",
+        "summarise",
+        "engage",
+        "respond"
+      ]
+    },
+    {
+      "name": "INTERVIEW SKILLS",
+      "words": [
+        "prepare",
+        "research",
+        "question",
+        "answer",
+        "confidence",
+        "professional",
+        "follow up",
+        "impress"
+      ]
+    },
+    {
+      "name": "NETWORKING",
+      "words": [
+        "connect",
+        "introduce",
+        "contact",
+        "opportunity",
+        "relationship",
+        "follow up",
+        "share",
+        "build"
+      ]
+    },
+    {
+      "name": "PROJECT MANAGEMENT",
+      "words": [
+        "plan",
+        "assign",
+        "track",
+        "progress",
+        "deadline",
+        "resource",
+        "review",
+        "deliver"
+      ]
+    },
+    {
+      "name": "FEEDBACK",
+      "words": [
+        "give",
+        "receive",
+        "constructive",
+        "specific",
+        "positive",
+        "improve",
+        "acknowledge",
+        "act on"
+      ]
+    },
+    {
+      "name": "EMOTIONAL INTELLIGENCE",
+      "words": [
+        "aware",
+        "regulate",
+        "empathy",
+        "social",
+        "motivate",
+        "recognise",
+        "manage",
+        "relate"
+      ]
+    },
+    {
+      "name": "RESILIENCE",
+      "words": [
+        "bounce back",
+        "cope",
+        "adapt",
+        "persist",
+        "overcome",
+        "challenge",
+        "recover",
+        "support"
+      ]
+    },
+    {
+      "name": "WELLBEING AT WORK",
+      "words": [
+        "balance",
+        "support",
+        "stress",
+        "culture",
+        "flexible",
+        "recognition",
+        "environment",
+        "benefit"
+      ]
+    },
+    {
+      "name": "DIVERSITY",
+      "words": [
+        "inclusion",
+        "equity",
+        "represent",
+        "perspective",
+        "culture",
+        "background",
+        "value",
+        "respect"
+      ]
+    },
+    {
+      "name": "ACCESSIBILITY",
+      "words": [
+        "barrier",
+        "design",
+        "support",
+        "enable",
+        "include",
+        "adapt",
+        "universal",
+        "right"
+      ]
+    },
+    {
+      "name": "CIVIC PARTICIPATION",
+      "words": [
+        "vote",
+        "campaign",
+        "petition",
+        "council",
+        "debate",
+        "represent",
+        "engage",
+        "community"
+      ]
+    },
+    {
+      "name": "VOLUNTEERING",
+      "words": [
+        "commit",
+        "contribute",
+        "skill",
+        "time",
+        "impact",
+        "organisation",
+        "cause",
+        "reward"
+      ]
+    },
+    {
+      "name": "CULTURAL EXCHANGE",
+      "words": [
+        "experience",
+        "learn",
+        "share",
+        "tradition",
+        "language",
+        "perspective",
+        "appreciate",
+        "adapt"
+      ]
+    },
+    {
+      "name": "STUDY ABROAD",
+      "words": [
+        "university",
+        "scholarship",
+        "language",
+        "culture",
+        "adapt",
+        "independent",
+        "experience",
+        "qualify"
+      ]
+    },
+    {
+      "name": "GAP YEAR",
+      "words": [
+        "travel",
+        "volunteer",
+        "experience",
+        "explore",
+        "develop",
+        "skill",
+        "independence",
+        "opportunity"
+      ]
+    },
+    {
+      "name": "LIFELONG LEARNING",
+      "words": [
+        "develop",
+        "update",
+        "curious",
+        "skill",
+        "course",
+        "adapt",
+        "knowledge",
+        "grow"
+      ]
+    },
+    {
+      "name": "PERSONAL FINANCE",
+      "words": [
+        "budget",
+        "save",
+        "spend",
+        "borrow",
+        "invest",
+        "plan",
+        "track",
+        "goal"
+      ]
+    },
+    {
+      "name": "CONSUMER RIGHTS",
+      "words": [
+        "return",
+        "refund",
+        "complaint",
+        "guarantee",
+        "contract",
+        "right",
+        "protect",
+        "enforce"
+      ]
+    },
+    {
+      "name": "HOUSING RIGHTS",
+      "words": [
+        "tenant",
+        "landlord",
+        "deposit",
+        "condition",
+        "agreement",
+        "right",
+        "repair",
+        "notice"
+      ]
+    },
+    {
+      "name": "WORKPLACE RIGHTS",
+      "words": [
+        "contract",
+        "minimum wage",
+        "holiday",
+        "sick pay",
+        "union",
+        "dismiss",
+        "right",
+        "equal"
+      ]
+    },
+    {
+      "name": "DIGITAL CITIZENSHIP",
+      "words": [
+        "responsible",
+        "ethical",
+        "safe",
+        "respectful",
+        "aware",
+        "participate",
+        "privacy",
+        "protect"
+      ]
+    }
+  ]
+}

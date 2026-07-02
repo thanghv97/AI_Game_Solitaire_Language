@@ -62,7 +62,7 @@ export default function Foundation({ slotIndex, cards, topicCardCounts, onCardCl
               : "border-slate-600 border-dashed bg-slate-900/20 hover:border-slate-500"
           }
         `}
-        onClick={() => topCard && onCardClick(topCard)}
+        onDoubleClick={() => topCard && onCardClick(topCard)}
       >
         {hasCards ? (
           <>

@@ -62,9 +62,10 @@ export default function GameCard({
         ...dragStyle,
         zIndex: isDragging ? 1000 : undefined,
         borderColor: isTheme ? "#facc15" : "#64748b",
+        touchAction: isTop ? "none" : undefined,
       }}
       {...(isTop ? { ...listeners, ...attributes } : {})}
-      onClick={onClick}
+      onDoubleClick={onClick}
       className={`
         border-2 select-none cursor-pointer relative
         flex flex-col items-center justify-center gap-1 p-1

@@ -35,10 +35,10 @@ function WasteCard({ card, onCardClick }: { card: Card; onCardClick: (c: Card) =
   return (
     <div
       ref={setNodeRef}
-      style={{ ...CARD_STYLE, ...dragStyle, zIndex: isDragging ? 1000 : undefined }}
+      style={{ ...CARD_STYLE, ...dragStyle, zIndex: isDragging ? 1000 : undefined, touchAction: "none" }}
       {...listeners}
       {...attributes}
-      onClick={() => onCardClick(card)}
+      onDoubleClick={() => onCardClick(card)}
       className={`
         border-2 select-none cursor-grab active:cursor-grabbing
         flex flex-col items-center justify-center p-1 gap-1

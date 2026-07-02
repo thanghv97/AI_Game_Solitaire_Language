@@ -5,7 +5,8 @@ import {
   DndContext,
   DragEndEvent,
   DragOverlay,
-  PointerSensor,
+  MouseSensor,
+  TouchSensor,
   useSensor,
   useSensors,
 } from "@dnd-kit/core"
@@ -27,6 +28,7 @@ import { getTopicColorHex } from "./GameCard"
 
 type Props = {
   vocabFile: VocabFile
+  lang: string
   onRestart: () => void
 }
 
@@ -61,14 +63,15 @@ function reducer(state: GameState, action: Action): GameState {
   }
 }
 
-export default function GameBoard({ vocabFile, onRestart }: Props) {
+export default function GameBoard({ vocabFile, lang, onRestart }: Props) {
   const [gameState, dispatch] = useReducer(reducer, undefined, () =>
     initGame(vocabFile.topics)
   )
   const [activeCard, setActiveCard] = useState<Card | null>(null)
 
   const sensors = useSensors(
-    useSensor(PointerSensor, { activationConstraint: { distance: 8 } })
+    useSensor(MouseSensor, { activationConstraint: { distance: 8 } }),
+    useSensor(TouchSensor, { activationConstraint: { delay: 150, tolerance: 5 } })
   )
 
   const handleDragEnd = useCallback((event: DragEndEvent) => {
@@ -220,8 +223,8 @@ export default function GameBoard({ vocabFile, onRestart }: Props) {
           </div>
 
           {/* Dictionary Panel */}
-          <div className="w-[22%] min-w-[160px] max-w-xs border-l border-slate-800 bg-slate-900 overflow-y-auto flex-shrink-0">
-            <DictionaryPanel card={gameState.selectedCard} />
+          <div className="w-[22%] min-w-[160px] max-w-xs border-l border-slate-200 bg-white overflow-y-auto flex-shrink-0">
+            <DictionaryPanel card={gameState.selectedCard} lang={lang} />
           </div>
         </div>
 
