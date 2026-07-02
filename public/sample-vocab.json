@@ -1,0 +1,20 @@
+{
+  "topics": [
+    {
+      "name": "LIBRARY",
+      "words": ["shelf", "bookmark", "catalogue", "manuscript", "archive", "librarian", "periodical", "index"]
+    },
+    {
+      "name": "KITCHEN",
+      "words": ["ladle", "colander", "whisk", "spatula", "cleaver", "grater", "skillet", "mortar"]
+    },
+    {
+      "name": "GARDEN",
+      "words": ["trowel", "compost", "pruning", "mulch", "seedling", "perennial", "irrigation", "cultivate"]
+    },
+    {
+      "name": "MUSIC",
+      "words": ["tempo", "harmony", "chord", "melody", "rhythm", "cadence", "timbre", "crescendo"]
+    }
+  ]
+}
